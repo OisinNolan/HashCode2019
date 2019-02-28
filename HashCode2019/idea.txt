@@ -1,0 +1,2 @@
+Using graph theory:
+each vertex is a photo.
